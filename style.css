@@ -1,5 +1,6 @@
 body {
     color: grey;
+    background-color: #f0f0f5;
     font-family: Helvetica, sans-serif;
     animation-name: transition;
     animation-duration: 2s;
